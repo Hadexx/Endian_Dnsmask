@@ -1,4 +1,5 @@
-#Endian Upate dnsmasq official version
+Endian Update dnsmasq official version
+--------
 
 Addon for Endian Firewall 3.2 this packgde is official, This tool allows to use new Dnsmasq 
 / 
